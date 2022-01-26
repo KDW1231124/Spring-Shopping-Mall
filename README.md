@@ -22,10 +22,7 @@
 + JQuery 3.1.1
 + Bootstrap 템플릿 [Subas](https://wrapbootstrap.com/theme/subas-bootstrap-ecommerce-template-WB0473B2L)을 수정하여 사용
 
-#### `deploy`
-+ AWS EC2 (Amazon linux 2)
-+ AWS RDS (MySQL)
-+ AWS S3
+
 
 <br>
 
