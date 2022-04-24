@@ -35,13 +35,10 @@
 
 <br>
 
-## 4. 시연 영상
 
-[![https://youtu.be/XGOT1Af8L8g](https://user-images.githubusercontent.com/70243735/117146354-17062600-adef-11eb-95ce-05c695929a52.png)](https://youtu.be/XGOT1Af8L8g)
 
-<br>
 
-## 5. 핵심 기능
+## 4. 핵심 기능
 
 ### [ 회원 관리 ]
 
